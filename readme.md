@@ -6,4 +6,4 @@ transform: skewX(45deg); 형태 변경 transform x축 skewX
 transition: 0.5s;  x축으로 밀기 transform: translateX(-50px);
 ```
 
-![img](./final.png)
+<img src="/final.png" width="50" height="50">
